@@ -18,9 +18,6 @@ Filled missing values
 
 All steps are documented in Data_Cleaning.ipynb
 
-## Below is an embedded image of Dashboard
-
-https://github.com/BashyerAlsulami/Stock_Price_Performance/blob/main/photo.jpg?raw=true
 ## Below is an embedded image of the dashboard
 
 ![Dashboard Preview](https://github.com/BashyerAlsulami/Stock_Price_Performance/blob/main/photo.jpg?raw=true)
