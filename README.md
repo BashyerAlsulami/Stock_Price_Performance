@@ -16,6 +16,25 @@ Dropped unnecessary rows
 
 Checked and handled null values
 
-Filled missing values where appropriate
+Filled missing values 
+
+All steps are documented in Data_Cleaning.ipynb
+
+## Embed images of your final dashboard directly in the README
+
+https://github.com/BashyerAlsulami/Stock_Price_Performance/blob/main/photo.jpg?raw=true
+
+## Main takeaways and what you would recommend to a stakeholder.
+
+- Stock prices show long-term upward trends with periodic volatility spikes.  
+- Daily returns fluctuate significantly some days have large negative or positive movements.  
+- Stakeholders can use this dashboard to:
+  - Identify periods of high volatility  
+  - Monitor daily and yearly performance  
+  - Make informed investment decisions based on trends
+  
+## Direct URL to your live, interactive dashboard.
+https://public.tableau.com/app/profile/bashyer.al/viz/StockPricePersormance/Dashboard1?publish=yes
+
 
 
